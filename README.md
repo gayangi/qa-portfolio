@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/gayangi/qa-portfolio/blob/main/ChatGPT%20Image%20Nov%2023%2C%202025%2C%2006_34_49%20PM.png" alt="QA by me Banner"/>
+</p>
+
 # QA by me  
 ### Software QA Portfolio (Week 1–3)
 
@@ -9,6 +14,7 @@ This repository contains my structured learning and hands-on practice in **Manua
 ## 📁 Portfolio Contents
 
 ### **Week 1 — QA Foundations**
+[👉 Open Folder](./Week1_QA_Foundations)
 - SDLC vs STLC  
 - QA vs Testing  
 - Agile + DevOps overview  

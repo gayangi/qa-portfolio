@@ -14,7 +14,7 @@ This repository contains my structured learning and hands-on practice in **Manua
 ## 📁 Portfolio Contents
 
 ### **Week 1 — QA Foundations**
-[👉 Open Folder](./Week1_QA_Foundations)
+[👉 Open Folder](QA_MD_Files_Week1-3/Week1_QA_Foundations)
 - SDLC vs STLC  
 - QA vs Testing  
 - Agile + DevOps overview  
